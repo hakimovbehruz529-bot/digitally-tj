@@ -1,5 +1,3 @@
-
-[index.html](https://github.com/user-attachments/files/26510306/index.html)
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -17,7 +15,7 @@
             <div class="header-content">
                 <div class="logo">
                     <i class="fas fa-microchip"></i>
-                    <span>DIGITALLY.<span class="TJ">TJ</span></span>
+                    <span>DIGITALLY<span class="TJ"></span></span>
                 </div>
                 <nav class="nav">
                     <a href="#home" class="nav-link active">Главная</a>
@@ -206,7 +204,7 @@
         <div class="container">
             <div class="about-content">
                 <div class="about-text">
-                    <h2>О компании Digitally.tj</h2>
+                    <h2>О компании DIGITALLY</h2>
                     <p>Мы — ведущий магазин компьютерной техники в Таджикистане. Наша миссия — сделать качественные комплектующие доступными для каждого.</p>
                     <div class="stats">
                         <div class="stat">
@@ -241,7 +239,7 @@
                     </div>
                     <p>Лучшие комплектующие для вашего ПК</p>
                     <div class="social">
-                        <i class="fab fa-telegram"></i>
+                        <i class="fab fa-telegram"><a href="https://www.instagram.com/digitally.tj/" target="_blank"></i>
                         <i class="fab fa-instagram"></i>
                         <i class="fab fa-facebook"></i>
                         <i class="fab fa-whatsapp"></i>
@@ -269,7 +267,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2026 DIGITALLY.TJ. Все права защищены.</p>
+                <p>&copy; 2026 DIGITALLY - Все права защищены.</p>
             </div>
         </div>
     </footer>
